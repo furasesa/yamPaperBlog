@@ -11,7 +11,7 @@ hideSummary: false
 ShowReadingTime: true
 ShowPostNavLinks: true
 cover:
-    image: "images/dongeng_cover.jpg"
+    image: "/images/dongeng_cover.jpg"
     alt: "Ilustrasi anak membaca buku sebelum tidur"
     hidden: false
 ---
