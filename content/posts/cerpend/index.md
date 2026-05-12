@@ -6,7 +6,7 @@ author: "Mellia Silvy Irdianty"
 draft: false
 description: "Hangatnya dongeng: cinta dan kasih sayang"
 cover:
-    image: image.jpg
+    image: cover.jpg
     alt: "Ilustrasi anak membaca buku sebelum tidur"
     caption: "
 Hangatnya dongeng."
