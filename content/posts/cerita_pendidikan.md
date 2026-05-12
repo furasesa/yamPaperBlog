@@ -9,9 +9,9 @@ showToc: false
 hidemeta: false
 hideSummary: false
 ShowReadingTime: true
-ShowPostNavLinks: true
+ShowPostNavLinks: false
 cover:
-    image: "/images/dongeng_cover.jpg"
+    image: "https://blog.nutrisea.org/images/dongeng_cover.jpg"
     alt: "Ilustrasi anak membaca buku sebelum tidur"
     hidden: false
 ---
