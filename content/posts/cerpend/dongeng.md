@@ -1,15 +1,10 @@
 ---
-title: "Masihkah Anak-anak Menunggu Dongeng Sebelum Tidur?"
+title: "Hangatnya Dongeng"
 date: 2026-05-12
 tags: ["dongeng", "cerpend"]
 author: "Mellia Silvy Irdianty"
-draft: false
+draft: true
 description: "Hangatnya dongeng: cinta dan kasih sayang"
-showToc: false
-hidemeta: false
-hideSummary: false
-ShowReadingTime: true
-ShowPostNavLinks: true
 cover:
     image: cover.jpg
     alt: "Ilustrasi anak membaca buku sebelum tidur"
