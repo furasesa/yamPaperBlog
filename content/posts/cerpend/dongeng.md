@@ -11,9 +11,10 @@ hideSummary: false
 ShowReadingTime: true
 ShowPostNavLinks: true
 cover:
-    image: "cover.jpg"
+    image: cover.jpg
     alt: "Ilustrasi anak membaca buku sebelum tidur"
-    hidden: false
+    caption: "
+Hangatnya dongeng."
 ---
 ### Masihkah Anak-anak Menunggu Dongeng Sebelum Tidur?
 
