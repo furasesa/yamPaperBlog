@@ -1,17 +1,17 @@
 ---
 title: "Masihkah Anak-anak Menunggu Dongeng Sebelum Tidur?"
 date: 2026-05-12
-tags: ["dongeng", "cerpen"]
+tags: ["dongeng", "cerpend"]
 author: "Mellia Silvy Irdianty"
 draft: false
-description: "Cerita pendidikan tentang dongeng sebelum tidur. Dongeng bukanlah nilai sesungguhnya, tapi cinta dan perhatian"
+description: "Hangatnya dongeng: cinta dan kasih sayang"
 showToc: false
 hidemeta: false
 hideSummary: false
 ShowReadingTime: true
-ShowPostNavLinks: false
+ShowPostNavLinks: true
 cover:
-    image: "https://blog.nutrisea.org/images/dongeng_cover.jpg"
+    image: "cover.jpg"
     alt: "Ilustrasi anak membaca buku sebelum tidur"
     hidden: false
 ---
