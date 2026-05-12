@@ -6,7 +6,7 @@ author: "Mellia Silvy Irdianty"
 draft: false
 description: "Hangatnya dongeng: cinta dan kasih sayang"
 cover:
-    image: images/cover.png
+    image: "images/cover.png"
     alt: "Ilustrasi anak membaca buku sebelum tidur"
     caption: "
 Hangatnya dongeng."
@@ -18,6 +18,8 @@ Dulu, malam terasa sederhana.
 Lampu kamar diredupkan pelan. Anak-anak mulai masuk ke dalam selimut sambil membawa buku cerita yang sampulnya mungkin sudah sedikit kusut karena terlalu sering dibuka. Lalu terdengar suara kecil yang hampir selalu sama setiap malam:
 
 > “Cerita lagi, ya…”
+![ilustrasi](images/ilu1.jpg)
+
 
 Kadang dongeng yang diminta itu-itu saja. Tentang kancil yang cerdik, tentang kura-kura yang menang lomba, atau kisah putri kecil yang tersesat di hutan. Orang dewasa yang membacakannya mungkin sudah hafal isi ceritanya di luar kepala—bahkan terkadang membacanya sambil menahan kantuk setelah hari yang panjang.
 
