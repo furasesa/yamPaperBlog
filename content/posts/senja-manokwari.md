@@ -1,19 +1,10 @@
 ---
 title: "Senja Manokwari"
-date: 2026-05-12
-tags: ["puisi", "Papua", "Manokwari"]
+date: 2026-05-11
+tags: ["puisi", "Manokwari"]
 author: "Mellia Silvy Irdianty"
 draft: false
 description: "Senja di Manokwari, angin laut, dan tanah Papua yang bertahan."
-showToc: false
-hidemeta: false
-hideSummary: false
-ShowReadingTime: true
-ShowPostNavLinks: true
-cover:
-    image: ""
-    alt: ""
-    hidden: true
 ---
 
 Senja Manokwari eisa pelan-pelan, angin laut susup lewat jendela mod,
