@@ -13,12 +13,6 @@ Hangatnya dongeng."
 ---
 ### Masihkah Anak-anak Menunggu Dongeng Sebelum Tidur?
 
-Dulu, malam terasa sederhana.
-
-Lampu kamar diredupkan pelan. Anak-anak mulai masuk ke dalam selimut sambil membawa buku cerita yang sampulnya mungkin sudah sedikit kusut karena terlalu sering dibuka. Lalu terdengar suara kecil yang hampir selalu sama setiap malam:
-
-> “Cerita lagi, ya…”
-
 
 ![ilustrasi](images/ilu1.jpg)
 
