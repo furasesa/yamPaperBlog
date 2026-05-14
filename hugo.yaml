@@ -81,7 +81,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
+    Title: "Let’s dive in 💡"
     Content: Selamat datang di Blog saya
 
   socialIcons:
